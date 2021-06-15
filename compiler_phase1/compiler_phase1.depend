@@ -1,0 +1,228 @@
+# depslib dependency file v1.0
+1620390628 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\main.cpp
+	<iostream>
+	<regex>
+	"Lexical_Analyzer.h"
+
+1619819127 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\graph.c
+
+1619819233 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\state.c
+
+1619862337 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\grammerparser.c
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1619860215 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\grammerparser.h
+	"Graph.h"
+
+1619863596 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\graph.h
+	<stack>
+	"State.h"
+
+1619862424 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1619862398 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\edge.h
+
+1619863275 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\graph.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+
+1619863150 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\state.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1619863190 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\edge.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1619864887 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\src\state.cpp
+	"State.h"
+	<bits/stdc++.h>
+
+1620390509 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\include\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1620390487 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\src\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1620390448 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\include\graph.h
+	<stack>
+	"State.h"
+
+1620390528 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\include\edge.h
+
+1619864946 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\src\edge.cpp
+	"Edge.h"
+
+1619904411 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\src\grammerparser.cpp
+	"GrammerParser.h"
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+
+1620390680 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\include\grammerparser.h
+	"Graph.h"
+
+1620389996 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\src\dfa_state.cpp
+	"DFA_State.h"
+
+1620390007 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\include\dfa_state.h
+	<bits/stdc++.h>
+
+1620389960 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\src\bfs.cpp
+	"BFS.h"
+
+1620389982 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\include\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1620390223 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\src\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1620390233 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\include\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1620387483 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\src\tokens.cpp
+	"Tokens.h"
+
+1620390379 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\include\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"DFA_State.h"
+
+1620390083 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\src\minimization.cpp
+	"Minimization.h"
+
+1620390429 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\include\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1620388434 source:c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\src\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1620387969 c:\users\lenovo\desktop\codeblocks_projects\compiler_phase1\include\lexical_analyzer.h
+	"GrammerParser.h"
+	"NFA_TO_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"Tokens.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"BFS.h"
+	<bits/stdc++.h>
+
+1620390628 source:c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\main.cpp
+	<iostream>
+	<regex>
+	"Lexical_Analyzer.h"
+
+1620387969 c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\include\lexical_analyzer.h
+	"GrammerParser.h"
+	"NFA_TO_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"Tokens.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"BFS.h"
+	<bits/stdc++.h>
+
+1622935209 c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\include\grammerparser.h
+	"Graph.h"
+
+1620390448 c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\include\graph.h
+	<stack>
+	"State.h"
+
+1620390509 c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\include\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1620390528 c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\include\edge.h
+
+1620390233 c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\include\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1620390007 c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\include\dfa_state.h
+	<bits/stdc++.h>
+
+1620390429 c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\include\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1620390379 c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\include\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"DFA_State.h"
+
+1620389982 c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\include\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1620389960 source:c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\src\bfs.cpp
+	"BFS.h"
+
+1620389996 source:c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\src\dfa_state.cpp
+	"DFA_State.h"
+
+1622760412 source:c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\src\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1622821165 source:c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\src\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1620390064 source:c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\src\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1620390083 source:c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\src\minimization.cpp
+	"Minimization.h"
+
+1620390223 source:c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\src\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1620390401 source:c:\users\lenovo\downloads\compiler_phase1\compiler_phase1\src\tokens.cpp
+	"Tokens.h"
+
